@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The two functions following take the inverse of a given matrix and store it as cached data
+## and look to see if there is a stored inverse matrix or if it needs to be inversed
 
 ## Takes the inverse of a given matrix and stores the value
 makeCacheMatrix <- function(x = matrix()) {
